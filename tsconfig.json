@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "rootDir": "src",
+    "strict": true,
+    "outDir": "build",
+    "sourceMap": true,
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "noEmit": true,
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+  },
+}
